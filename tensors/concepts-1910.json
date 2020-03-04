@@ -1,0 +1,1 @@
+{"embeddings": [{"tensorShape": [1000, 50], "tensorName": "1910", "metadataPath": "https://raw.githubusercontent.com/jeddobson/vector-space-mappings/master/tensors/concepts-1910_metadata.tsv", "tensorPath": "https://raw.githubusercontent.com/jeddobson/vector-space-mappings/master/tensors/concepts-1910_tensor.tsv"}]}
